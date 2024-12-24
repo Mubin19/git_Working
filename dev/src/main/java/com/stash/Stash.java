@@ -15,7 +15,7 @@ public class Stash {
 			return a*b;
 		}
 			
-		public int dib(int a, int b) {
+		public int div(int a, int b) {
 			return a/b;
 		}
 			
