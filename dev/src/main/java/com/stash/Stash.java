@@ -23,9 +23,17 @@ public class Stash {
 		
 		}
 		
+<<<<<<< Updated upstream
 		public int div (int c, int s) {
 			return c+s;
 		}
+=======
+		public static void main(String[] args) {
+			Stash s = new Stash();
+			s.add(1, 2);
+		}
+
+>>>>>>> Stashed changes
 
 }
 
