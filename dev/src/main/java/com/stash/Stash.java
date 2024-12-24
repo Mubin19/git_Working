@@ -22,7 +22,10 @@ public class Stash {
 			return a*b;
 		
 		}
-
+		
+		public int div (int c, int s) {
+			return c+s;
+		}
 
 }
 
