@@ -10,12 +10,21 @@ public class Stash {
 		public int sub(int a, int b) {
 			return a+b;
 		
-
+		}
+		public int multi(int a, int b) {
+			return a*b;
+		}
+			
+		public int dib(int a, int b) {
+			return a/b;
+		}
+			
+			
 		}
 	
 	
 
-}
+
 
 
 
