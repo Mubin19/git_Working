@@ -10,6 +10,7 @@ public class Stash {
 		public int sub(int a, int b) {
 			return a+b;
 		
+
 		}
 		public int multi(int a, int b) {
 			return a*b;
@@ -23,9 +24,31 @@ public class Stash {
 			
 		}
 			
+
+
 		}
-	
-	
+
+//		public int mod(int a, int b) {
+//			return a%b;
+//		}
+//		
+//	
+//		public int multi(int a, int b) {
+//			return a*b;
+//		
+//		}
+//		
+//<<<<<<< Updated upstream
+//		public int div (int c, int s) {
+//			return c+s;
+//		}
+//=======
+//		public static void main(String[] args) {
+//			Stash s = new Stash();
+//			s.add(1, 2);
+//		}
+//
+//>>>>>>> Stashed changes
 
 
 
