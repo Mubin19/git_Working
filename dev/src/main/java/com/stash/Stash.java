@@ -19,6 +19,9 @@ public class Stash {
 			return a/b;
 		}
 			
+		public static void main(String[] args) {
+			
+		}
 			
 		}
 	
